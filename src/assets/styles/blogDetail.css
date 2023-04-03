@@ -1,0 +1,90 @@
+
+:root{
+    --darkgreen:#1FAB89;
+    --green: #62D2A2;
+    --lightgreen: #9DF3C4;
+    --superlightgreen: #D7FBE8;    
+    --blue:  #1C315E;   
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+ ::-webkit-scrollbar-track {
+    background: var(--darkgreen); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #196350; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--superlightgreen); 
+  }
+
+/* Flowers section */
+
+.flowersSection{
+    width: 100%;
+    min-height: calc(100vh-75px);
+    background-color: var(--superlightgreen);
+}
+.imgSection{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 30px 0px;
+}
+.imgSection img{
+    width: 90%;
+    box-shadow: 0px 0px 10px 0px #0b2b23;
+}
+.flowersTitle{
+    text-align: center;
+    font-size: 35px;
+    color: #1C315E;
+    margin: 20px;
+}
+.flowerTypes{
+    padding: 0px 100px;
+}
+.flowersSubTitle{
+    color: #1C315E !important;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 15px;
+    padding-left: 50px;
+}
+.flowerAuthor{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px 0px;
+}
+.flowerAuthor h4,
+.flowerAuthor h5{
+    color: #1C315E;
+}
+
+/* RESPONSIVE */
+
+@media screen and (min-width: 1024px){
+    .imgSection img{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 520px){
+    
+.imgSection{
+    padding: 15px 0px;
+    }
+    .imgSection img{
+        width: 95%;
+    }
+}

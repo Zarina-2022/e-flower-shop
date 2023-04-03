@@ -1,0 +1,38 @@
+React Blog App
+
+A. Uygulamanin tanitimi:
+    Bu uygulama react ile gelistirilecek bir blog uygulamasidir.
+    Normal kullanicilar sistemdeki butun blog yazilarini  gorebilir ve okuyabilir.
+    Admin yetkisine sahip kullanicilar admin paneline giris yapabilir, kendine ait blog yazilarini silebilir,
+    duzenleyebilir yada yeni bir blog yazisi olusturabilir.
+B. Projenin gerceklenmesi:
+    1. Dependencies:
+        - json-server
+        - axios
+        - react-router-dom
+        - redux,
+        - react-redux,
+        - react-bootstrap (UI kutuphanesi olarak) // Ant Design of React'ta olabilir
+        - font awesome
+        - module.css (import styles from "../assets/styles/subMenu.module.css")
+        - text-editor olarak react-simple-wysiwyg kullanildi
+    2. Ana kurallar:
+        - Projede 3 rol bulunmaktadir:
+        a) giris yapmamis kullanici: siteyi ziyaret eder ve blog yazilarini okur.
+        b) blogger rolu: bu role sahip kullanici admin paneline giris yapabilir.
+                         Kendine ait blog yazilari uzerinde CRUD yetkisi vardir.
+                         Kategoriler kisminda herhang bir yetkisi yoktur
+        c) Admin rolu: bu role sahip kullanici butun blog yazilari uzerinde CRUD yetkisi vardir. 
+                       Ayrica sistemdeki kategoriler kismi uzerinde CRUD yetkisi vardir.
+    3. Projenin altyapisinin kurulmasi:
+        - json-server ve veri yapiinin hazirlanmasi.(db.json)
+        - redux alt yapisinin kurulmasi:
+            a) store'a tasinacak state'lere karar vermek: 
+                blogsState 
+                categoriesState 
+                usersState (normalde userState ihtiyacimiz yok cunku hepsi backend'de kaydedilir)
+                loginState (eger sistemde login islemi var ise loginState olusturuyoruz)
+        - router yapisinin kurulmasi (app.js'te: (BrowserRouter,Routes,Route))
+    4. axios instance olusturulmasi (api dosyasi: api.js ve urls.js)
+    5. Proje baslarken verilerin cekilerek redux'a yuklenmesi
+    

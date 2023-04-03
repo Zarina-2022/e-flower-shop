@@ -1,0 +1,121 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Info about flowers",
+      "subtitle": "What do you know about flowers?",
+      "description": "Flowers are a vital part of the world's eco-system and are the basis of all life on earth.",
+      "content": "<div><span style=\"color: #444; margin-top: 10px; font-size: 18px; font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">           </span><span style=\"color: #444;  margin-top: 10px; font-size: 18px; text-align: var(--bs-body-text-align);\"><b> Flowers by name</b></span><br></div><div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Flowers are a vital part of the world's eco-system and are the basis of all life on earth. Not only do they produce oxygen for us to breathe, but they also provide food for birds, insects and animals on every continent.</span></div><div style=\"color: #555; margin-top: 10px;font-size: 16px;\"><span style=\"color: #555;\"> They grow on the highest mountains and even underwater and every country has their own unique varieties. There are thousands of varieties of flower in the world today and each one has its own history, specific name and place of origin. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> you can also discover for yourself the different colours in which flowers bloom and what unique scents they produce, if any. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flowers by colour</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Flowers come in a variety of colours, with shades ranging from purest white to almost black. Their pigment can be affected by species, environment, time of year and diet so there is always plenty of choice when searching within a specific colour group. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> From red roses on Valentine's Day or white calla lilies at a wedding, colour has as an important a role as scent, style and shape. Every colour can evoke a different emotion within us and they can help improve our mood or give us a boost when we need it most. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flower personality</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Just as there are many different kinds of flower in the world; people have a variety of ways they can express themselves. Our personality shapes who we are and every day can be different when it comes to our moods and our outlooks on life. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> For every change in your day, there is a flower personality to match. Whether you're feeling bright and breezy or serene and reflective, we have gathered to perfect flowers to compliment your emotions. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flowers by scent</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> In nature, plants and flowers use scent to attract birds and insects to them in order to pollenate. As each bird, bee or insect lands on a flower it picks up pollen and, when it lands on the next flower, it leaves some behind while taking away new pollen.</span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Scent is also used as a deterrent to stop herbivores from eating the plant. By producing a foul or bitter scent, the flower can put off potential predators and warn creatures that they don't taste very nice. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\">This has no effect on insects however as they are attracted to less appealing aromas.\"</span>,</div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\">&nbsp; &nbsp; &nbsp;</div></div>",
+      "img1": "https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/home-and-garden/gardening/plants/perennials/agapanthus/how_to_grow_agapanthus_533494744_768.jpg",
+      "img2": "https://cdn.webshopapp.com/shops/40795/files/383978485/1140x200x1/image.jpg",
+      "categoryId": "1",
+      "userId": "2"
+    },
+    {
+      "id": "2",
+      "title": "Plants for health",
+      "subtitle": "",
+      "description": "Plants are good for our health in a variety of ways, from making the air we breathe safer, to producing natural remedies for sickness and ailments.",
+      "content": "",
+      "img1": "https://st2.depositphotos.com/3243683/9858/i/950/depositphotos_98584466-stock-photo-essential-oils-with-herbs-in.jpg",
+      "img2": "https://st2.depositphotos.com/3243683/9858/i/950/depositphotos_98584466-stock-photo-essential-oils-with-herbs-in.jpg",
+      "categoryId": "2",
+      "userId": "3"
+    },
+    {
+      "id": "3",
+      "title": "Care tips for flowers",
+      "subtitle": "",
+      "description": "These are the top ten things to remember when buying cut flowers for your home or a special occasion.",
+      "content": "",
+      "img1": "https://agronew.com.tr/wp-content/uploads/2021/08/fertilizer-1-600x338.jpg",
+      "img2": "https://agronew.com.tr/wp-content/uploads/2021/08/fertilizer-1-600x338.jpg",
+      "categoryId": "3",
+      "userId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Wedding ideas",
+      "subtitle": "",
+      "description": "Your wedding day is one of the most memorable occasions you'll ever organise and we know how important it is that every single detail is just right on the day.",
+      "content": "",
+      "img1": "https://all-inclusive.marriott.com/resourcefiles/celebration-snippet-images-main/tropical-luxury-of-treasure-beach-by-elegant-hotels-barbados.jpg",
+      "img2": "https://all-inclusive.marriott.com/resourcefiles/celebration-snippet-images-main/tropical-luxury-of-treasure-beach-by-elegant-hotels-barbados.jpg",
+      "categoryId": "4",
+      "userId": "2"
+    },
+    {
+      "id": "1",
+      "title": "Info about flowers",
+      "subtitle": "What do you know about flowers?",
+      "description": "Flowers are a vital part of the world's eco-system and are the basis of all life on earth.",
+      "content": "<div><span style=\"color: #444; margin-top: 10px; font-size: 18px; font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">           </span><span style=\"color: #444;  margin-top: 10px; font-size: 18px; text-align: var(--bs-body-text-align);\"><b> Flowers by name</b></span><br></div><div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Flowers are a vital part of the world's eco-system and are the basis of all life on earth. Not only do they produce oxygen for us to breathe, but they also provide food for birds, insects and animals on every continent.</span></div><div style=\"color: #555; margin-top: 10px;font-size: 16px;\"><span style=\"color: #555;\"> They grow on the highest mountains and even underwater and every country has their own unique varieties. There are thousands of varieties of flower in the world today and each one has its own history, specific name and place of origin. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> you can also discover for yourself the different colours in which flowers bloom and what unique scents they produce, if any. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flowers by colour</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Flowers come in a variety of colours, with shades ranging from purest white to almost black. Their pigment can be affected by species, environment, time of year and diet so there is always plenty of choice when searching within a specific colour group. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> From red roses on Valentine's Day or white calla lilies at a wedding, colour has as an important a role as scent, style and shape. Every colour can evoke a different emotion within us and they can help improve our mood or give us a boost when we need it most. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flower personality</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Just as there are many different kinds of flower in the world; people have a variety of ways they can express themselves. Our personality shapes who we are and every day can be different when it comes to our moods and our outlooks on life. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> For every change in your day, there is a flower personality to match. Whether you're feeling bright and breezy or serene and reflective, we have gathered to perfect flowers to compliment your emotions. </span></div><div style=\"color: #444; margin-top: 10px; font-size: 18px;\"><span style=\"color: #444;\">            <b>Flowers by scent</b> </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> In nature, plants and flowers use scent to attract birds and insects to them in order to pollenate. As each bird, bee or insect lands on a flower it picks up pollen and, when it lands on the next flower, it leaves some behind while taking away new pollen.</span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\"> Scent is also used as a deterrent to stop herbivores from eating the plant. By producing a foul or bitter scent, the flower can put off potential predators and warn creatures that they don't taste very nice. </span></div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\"><span style=\"color: #555;\">This has no effect on insects however as they are attracted to less appealing aromas.\"</span>,</div><div style=\"color: #555; margin-top: 10px; font-size: 16px;\">&nbsp; &nbsp; &nbsp;</div></div>",
+      "img1": "https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/home-and-garden/gardening/plants/perennials/agapanthus/how_to_grow_agapanthus_533494744_768.jpg",
+      "img2": "https://cdn.webshopapp.com/shops/40795/files/383978485/1140x200x1/image.jpg",
+      "categoryId": "1",
+      "userId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Care tips for flowers",
+      "subtitle": "",
+      "description": "These are the top ten things to remember when buying cut flowers for your home or a special occasion.",
+      "content": "",
+      "img1": "https://agronew.com.tr/wp-content/uploads/2021/08/fertilizer-1-600x338.jpg",
+      "img2": "https://agronew.com.tr/wp-content/uploads/2021/08/fertilizer-1-600x338.jpg",
+      "categoryId": "3",
+      "userId": "3"
+    },
+    {
+      "id": "1680541138481",
+      "title": "test",
+      "description": "test",
+      "content": "test",
+      "img": "test",
+      "categoryId": "1",
+      "userId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Flowers"
+    },
+    {
+      "id": "2",
+      "name": "Plants"
+    },
+    {
+      "id": "3",
+      "name": "Care tips"
+    },
+    {
+      "id": "4",
+      "name": "Wedding"
+    },
+    {
+      "id": "5",
+      "name": "News"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "superadmin",
+      "password": "superadmin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "Zarina",
+      "password": "Zarina",
+      "role": "blogger"
+    },
+    {
+      "id": "3",
+      "username": "Betty",
+      "password": "Betty1",
+      "role": "blogger"
+    }
+  ]
+}

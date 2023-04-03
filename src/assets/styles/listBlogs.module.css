@@ -1,0 +1,7 @@
+.listBlogsWrapper{
+    margin: 40px 70px;
+    padding: 20px;
+}
+.shadow{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+}

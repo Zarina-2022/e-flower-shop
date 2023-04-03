@@ -1,4 +1,4 @@
-E-FLOWER-SHOP BLOG-APP
+<b>E-FLOWER-SHOP BLOG-APP</b>
 
 <h3>This application is a blog application developed with react.js, redux, as an online flower sales app. </h3>
 
@@ -32,5 +32,9 @@ E-FLOWER-SHOP BLOG-APP
                       Also he has CRUD authority over the categories in the system.</li>
 </ul> 
 
+<h4>Project preview:</h4
+
 ![](intro.gif)
+
+<h4>Login part:</h4>
 ![](login_about.gif)

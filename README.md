@@ -37,4 +37,5 @@
 ![](intro.gif)
 
 <h2>Login part:</h2>
+
 ![](login_about.gif)
